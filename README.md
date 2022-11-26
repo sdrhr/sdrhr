@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sdrhr
+- 👋 Hi, I’m Sidra Tahir
 - 👀 I’m interested in making different amazing projects
 - 🌱 I’m currently learning working on androide studio
 - - 💞️ I’m looking to collaborate on web developers
